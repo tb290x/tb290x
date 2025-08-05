@@ -5,7 +5,7 @@
 - AWS Certified Solutions Architect – Associate  
 - AWS Certified Cloud Practitioner  
 - CompTIA A+
-- CompTIA ITF
+- CompTIA ITF+
 - Google IT Support  
 - Microsoft 365 Fundamentals (MS-900)
 
